@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ibrahim-umar-pr/image-1.png
+file: /courses/ibrahim-umar-pr-ibrahim-umar-pr-spring-2023/image-1.png
 file_size: 1272559
 file_type: image/png
 image_metadata:
