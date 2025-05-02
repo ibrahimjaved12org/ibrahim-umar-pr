@@ -15,7 +15,7 @@ title: Crow
 uid: 18d40c9f-2c06-4eb6-b31d-2a3f7d293f60
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: courses/ibrahim-umar-pr-ibrahim-umar-pr-spring-2023/countdownsample5_transcript.pdf
   video_thumbnail_file: courses/ibrahim-umar-pr/countdownsample5_transcript.pdf
   video_transcript_file: ''
 video_metadata:
